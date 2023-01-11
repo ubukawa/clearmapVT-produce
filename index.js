@@ -37,7 +37,6 @@ winston.configure({
 
 // global variable
 let idle = true
-let wtps
 let modules = {}
 let pools = {}
 let productionSpinner = new Spinner()

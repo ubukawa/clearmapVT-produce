@@ -23,3 +23,9 @@ cd /data
 npm install
 node index.js
 ```
+
+
+# files
+* index.js: create PMTiles
+* test001.js: display information
+* test002.js: export as text
