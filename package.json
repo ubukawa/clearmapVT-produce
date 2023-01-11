@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "better-queue": "^3.8.12",
+    "child_process": "^1.0.2",
+    "cli-spinner": "^0.2.10",
+    "config": "^3.3.8",
+    "fs": "^0.0.1-security",
+    "hh-mm-ss": "^1.2.0",
+    "hjson": "^3.2.2",
+    "prettysize": "^2.0.0",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
