@@ -7,6 +7,7 @@
     "fs": "^0.0.1-security",
     "hh-mm-ss": "^1.2.0",
     "hjson": "^3.2.2",
+    "pg": "^8.8.0",
     "prettysize": "^2.0.0",
     "winston": "^3.8.2",
     "winston-daily-rotate-file": "^4.7.1"
