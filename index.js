@@ -155,7 +155,6 @@ const sleep = (wait) => {
 const queue = new Queue(async (t, cb) => {
   const startTime = new Date()
   const moduleKey = t.moduleKey //0-0-0
-  const queueStats = queue.getStats()
   const tmpPath = `${pmtilesDir}/part-${moduleKey}.pmtiles`
   const dstPath = `${pmtilesDir}/${moduleKey}.pmtiles`
 
